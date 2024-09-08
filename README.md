@@ -23,7 +23,8 @@ motor running <br />
 fan <br />
 switch fan <br />
 The switchbox is placed in box where radio was before. => quick acces.<br />
-Just made the box now to implement on motorbike. I will also put a fly diode across fan , cutting off fan can use a serious ripple on powersupply <br />
+Just made the box now to implement on motorbike. <br />
+I will also put a fly diode across fan , cutting off fan can use a serious ripple on powersupply <br />
 because of inductive load. This can freeze the esp8266 (uses the same powersupply).  <br />
 Implemented for this reason also wathchdog in code to restart automatically esp when this happens.<br />
 Will give update how reliable it works in the future.<br />
