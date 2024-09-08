@@ -10,15 +10,16 @@ The unit consist of box.<br />
 esp8266 mini.<br />
 opamp for measuring voltage 0-15v reduced to 0-3.3v.<br />
 2 relay 1 switched by esp8266 when motor is running<br />
-        2nd relay for fan gets only power when relay one is switched <br />
-teachbutton for teaching voltage motor running.<br />
+        2nd relay for fan gets only power when relay one is switched and manual switch fan is on <br />
+teachbutton for teaching voltagelevel motor running.<br />
 led relay one active (motor is running) <br />
 power direct from battery with awg 18 fuse 7.5A<br />
 # Remarks
 Cabling stays original and box and cable can be easily removed.<br />
 box has 4 short cables with seperate connectors for rapid connection.<br />
 power<br />
-motor running 
+motor running <br />
 fan <br />
 switch fan <br />
-the switchbox is places in box where radio was before. => quick acces.<br />
+the switchbox is placed in box where radio was before. => quick acces.<br />
+
