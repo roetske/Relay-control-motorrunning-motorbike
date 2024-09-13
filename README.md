@@ -28,4 +28,7 @@ I will also put a fly diode across fan , cutting off fan can use a serious rippl
 because of inductive load. This can freeze the esp8266 (uses the same powersupply).  <br />
 Implemented for this reason also wathchdog in code to restart automatically esp when this happens.<br />
 Will give update how reliable it works in the future.<br />
+Update <br />
+adjusted time on from 10 to 3 sec.(org 10 sec) to long.<br />
+added light fan on.<br />
 
