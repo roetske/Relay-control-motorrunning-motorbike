@@ -22,6 +22,7 @@ power<br />
 motor running <br />
 fan <br />
 switch fan <br />
+cable light when fan is on <br />
 The switchbox is placed in box where radio was before. => quick acces.<br />
 Just made the box now to implement on motorbike. <br />
 I will also put a fly diode across fan , cutting off fan can use a serious ripple on powersupply <br />
@@ -29,6 +30,6 @@ because of inductive load. This can freeze the esp8266 (uses the same powersuppl
 Implemented for this reason also wathchdog in code to restart automatically esp when this happens.<br />
 Will give update how reliable it works in the future.<br />
 Update <br />
-adjusted time on from 10 to 3 sec.(org 10 sec) to long.<br />
+adjusted switch time on from 10 to 3 sec.(org 10 sec) too long.<br />
 added light fan on (parallel with cable on output relay2).<br />
 
