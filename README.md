@@ -19,16 +19,20 @@ power direct from battery with awg 18 fuse 7.5A<br />
 esp8266mini<br />
 buckconverter outputs 5v<br />
 opamp to with resistor divider 0-16v to 0-3.3v to analogue input esp8266<br />
-diode flywheel across power input -diode in seris input plus<br />
-led indicating on<br />
+diode flywheel across power input (cutoff narsty emk from inductive loads) <br />
+-diode in series power<br />
+0.5 fuse resettable protect power electronics<br />
+red led indicating motorrunning on<br />
 2 relay in one module 10a switching power per relay(first i wanted to use automotive relay but too bulky)<br />
 input button to teach voltage motorrunning (press 5sec and your trigger on voltage is teached and saved)<br />
 box to put it all in<br />
-2p male female automotive connector<br />
-5.5mm male female powerconnector for switch fan and light fan on<br />
-battery connector see picture<br />
+2x 2p male female automotive connector<br />
+2x 5.5mm male female powerconnector for switch fan and light fan on<br />
+2x battery connector see picture<br />
 loomtape to wrap cables<br />
-silicone cable 18awg<br />
+powercable from battery silicone cable 18awg<br />
+powercable from battery fuse holder with fuse 7.5A<br />
+wrapped all cables with loomtape and powercable extra cable sleeve.
 important sprayed print and inside box with contact70 (coats everything with thin plastic layer protection against humidity and corrosion)<br />
 
 # Remarks
