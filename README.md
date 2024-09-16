@@ -9,7 +9,7 @@ Made a voltage control detector with esp8266 where I read the voltage from the b
 Implemented also teachbutton to set triggerpoint for switching relay on and store it in flash when teached.<br />
 The unit consist of box.<br />
 esp8266 mini.<br />
-opamp for measuring voltage 0-15v reduced to 0-3.3v.<br />
+voltagedivider with zener to opamp for measuring voltage 0-15v reduced to 0-3.3v.<br />
 2 relay 1 switched by esp8266 when motor is running -use it for future use extra equipment when i need power<br />
         2nd relay for fan gets only power when relay one is switched and manual switch fan is on <br />
 teachbutton for teaching voltagelevel motor running.<br />
@@ -25,6 +25,7 @@ diode flywheel across power input (cutoff narsty emk from inductive loads) <br /
 red led indicating motorrunning on<br />
 2 relay in one module 10a switching power per relay(first i wanted to use automotive relay but too bulky)<br />
 input button to teach voltage motorrunning (press 5sec and your trigger on voltage is teached and saved)<br />
+wago 221 for connections wireloom in box <br />
 box to put it all in<br />
 2x 2p male female automotive connector<br />
 2x 5.5mm male female powerconnector for switch fan and light fan on<br />
