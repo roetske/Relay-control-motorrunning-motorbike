@@ -30,7 +30,7 @@ added light fan on (hardware no code)
 #define teachpin 5
 #define analogInPin 0
 
-String version ="version3";
+String version ="version 4";
 int readvoltage = 0;  // value read from the pot
 float voltage = 0;
 float offset =0.15;
