@@ -37,7 +37,7 @@ important sprayed print and inside box with contact70 (coats everything with thi
 
 # Remarks
 Cabling stays original and box and cable can be easily removed.<br />
-box has 4 short cables with seperate connectors for rapid connection.<br />
+box has 5 short cables with seperate connectors for rapid connection.<br />
 power<br />
 motor running <br />
 fan <br />
