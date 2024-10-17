@@ -53,4 +53,8 @@ Will give update how reliable it works in the future.<br />
 Update <br />
 adjusted switch time on from 10 to 3 sec.(org 10 sec) too long.<br />
 added light fan on (parallel with cable on output relay2).<br />
-
+# Alternative with nano
+Played around with lm358 standalone but had to use potentiometers for trigger and switch interval. (difference off and on hyst = 1v) did not find it good. <br />
+A better alternative was with arduino nano clone simple and good. Also board does the detecting and than switches coil for your outside relay 12v. :)<br />
+Standalone without controller was 20 years ago the best way to go, but now esp8266 or nano cost is minimal and gives you more options for better control. <br />
+you can program your hysteresis and timeon and off delay like you want.<br />
