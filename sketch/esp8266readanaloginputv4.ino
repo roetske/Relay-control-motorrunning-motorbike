@@ -171,7 +171,7 @@ void checkteachpin()
               EEPROM.commit(); // Commit the changes to EEPROM
              //no continuous writing otherwise you destroy flash
               bCheckingSwitch = false;
-              trigscan=0;
+              teachpinscan=0;
             }
     }       
 }
