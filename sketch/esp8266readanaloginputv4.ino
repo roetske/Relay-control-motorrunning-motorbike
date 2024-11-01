@@ -1,11 +1,6 @@
 /*
 voor motorfiets
-1.87= 11v  526
-2 =  12v   666
-2.12 =13v  708
-2.22 =14   735
-2.30 =15   760
-2.38 =16   784
+
 esp8266 generic device
 hmm voltage difference is critical
 loaded battery can be 
