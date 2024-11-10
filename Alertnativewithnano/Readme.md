@@ -3,14 +3,14 @@ Supply of power to nano must be connected to 5v not vin.
 I had to discover it the hard way when 5V is supplied to Vin this voltage is too low!!!
 You must supply 5v to the 5v pin of the nano.
 
-# Extra features
+# Purpose
 Purpuse is switch relay when motor is running. 
 13.8v and higher on.
 13v switch off after 3s.
 emergency switchoff when battery is 12.5v.
 
 The box is provided with the the power from the battery and relays output to 2nd connector when motor is running.
-# connections
+# Connections
 1) power in
 2) power out
 3) pushbutton on/off (press once on , press again off)
