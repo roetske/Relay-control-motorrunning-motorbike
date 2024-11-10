@@ -1,6 +1,6 @@
 # Remarks
 Supply of power to nano must be connected to 5v not vin.
-I had to discover it the hardway when 5V is supplied to Vin this voltage is too low!!!
+I had to discover it the hard way when 5V is supplied to Vin this voltage is too low!!!
 You must supply 5v to the 5v pin of the nano.
 
 # Extra features
