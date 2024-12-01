@@ -1,4 +1,4 @@
-#Using vibrationsensor
+# Using vibrationsensor
 Test using piezo vibrationsensor to trigger relay on.
 The sensor has digital output that you can set vibration level with potentiometer.
 Also an analog output when shaken.
