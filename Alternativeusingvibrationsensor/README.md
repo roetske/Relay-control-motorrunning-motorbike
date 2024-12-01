@@ -16,5 +16,5 @@ The project is a work in progress. I will update working or not.
 
 # Remarks
 Used relay board with esp8266. To my surprise discovered analogue input
-measuring range esp8266 0-1V. Only on nodemcu esp8266 there is a resistordivider onboard that allows
+measuring range esp8266 0-1V for a bare chip. Only on certain boards like nodemcu esp8266 there is a resistordivider onboard that allows
 you to measure voltages 0-3.3V.
