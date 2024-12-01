@@ -58,3 +58,5 @@ Played around with lm358 standalone but had to use potentiometers for trigger an
 A better alternative was with arduino nano clone simple and good. Also board does the detecting and than switches coil for your outside relay 12v. :)<br />
 Standalone without controller was 20 years ago the best way to go, but now esp8266 or nano cost is minimal and gives you more options for better control. <br />
 you can program your hysteresis and timeon and off delay like you want.<br />
+
+# Alternatieve with piezo vibration sensor
