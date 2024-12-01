@@ -1,4 +1,6 @@
 # Using vibrationsensor
+Tested adxl345 nok. Shaking tube nok ended up with piezo vibration sensor.
+
 Test using piezo vibrationsensor to trigger relay on.
 The sensor has digital output that you can set vibration level with potentiometer.
 Also an analog output when shaken.
