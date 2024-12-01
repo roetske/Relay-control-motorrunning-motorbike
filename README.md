@@ -60,3 +60,4 @@ Standalone without controller was 20 years ago the best way to go, but now esp82
 you can program your hysteresis and timeon and off delay like you want.<br />
 
 # Alternatieve with piezo vibration sensor
+Would be great alternative instead of measuring alternator voltage.
