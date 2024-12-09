@@ -11,7 +11,8 @@ For the digital output set when shaken it has to be on for a certain time.
 Not tested yet on my motorbike or car. Tested it on small dc engine running.
 If it works it would be a great alternative to detect motor running
 and not using the voltage of the alternator.
-
+1st test in car not directly what i want. depends very much on the place where you put the sensor.
+You need place where vibration is.
 The project is a work in progress. I will update working or not.
 
 # Remarks
