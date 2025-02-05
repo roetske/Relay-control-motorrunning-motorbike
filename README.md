@@ -63,9 +63,10 @@ you can program your hysteresis and timeon and off delay like you want.<br />
 Would be great alternative instead of measuring alternator voltage.
 
 # Update in time
-Keep it simple. In test at idle shuts off despite adjusting.
-pushbutton 5s press on -1s press off
-important light on when on
-Use tiltsensor when on stand always off.
-I think this is the way to go.
-If motorcycle is parked and someone presses randomly not on.
+In test at idle shuts off despite adjusting.<br />
+Keep it simple. <br />
+pushbutton 5s press on -1s press off<br />
+important light on when on<br />
+Use tiltsensor when on stand always off.<br />
+I think this is the way to go.<br />
+If motorcycle is parked and someone presses randomly not on.<br />
