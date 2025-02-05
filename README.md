@@ -61,3 +61,11 @@ you can program your hysteresis and timeon and off delay like you want.<br />
 
 # Alternatieve with piezo vibration sensor
 Would be great alternative instead of measuring alternator voltage.
+
+# Update in time
+Keep it simple. In test at idle shuts off despite adjusting.
+pushbutton 5s press on -1s press off
+important light on when on
+Use tiltsensor when on stand always off.
+I think this is the way to go.
+If motorcycle is parked and someone presses randomly not on.
