@@ -70,3 +70,4 @@ important light on when on<br />
 Use tiltsensor when on side stand always off after one minute.<br />
 I think this is the way to go.<br />
 If motorcycle is parked and someone presses randomly not on.<br />
+Got my parts now hopefully start building this version<br />
