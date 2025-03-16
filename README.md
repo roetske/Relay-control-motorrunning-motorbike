@@ -63,7 +63,7 @@ you can program your hysteresis and timeon and off delay like you want.<br />
 Would be great alternative instead of measuring alternator voltage.<br />
 Tested it vibration is the thing to trigger but depends very much on the vibration = where you place your circuit with vibrationsensor.<br />
 
-# Using the oilpressure sensor 
+# Alternative Using the oilpressure sensor 
 Normally you can use wire that control the lights to switch relay for bike running but lights are on when contact is on and motor not running.<br />
 Found that you can use the oilpressureswitch is nc switch.<br />
 On my motorbike oilpressure switch just controls indicator light oilpressure (the light is on contact on-- then when motor is running light is off)<br />
