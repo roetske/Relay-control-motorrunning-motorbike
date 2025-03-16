@@ -59,9 +59,13 @@ A better alternative was with arduino nano clone simple and good. Also board doe
 Standalone without controller was 20 years ago the best way to go, but now esp8266 or nano cost is minimal and gives you more options for better control. <br />
 you can program your hysteresis and timeon and off delay like you want.<br />
 
-# Alternatieve with piezo vibration sensor
+# Alternative with piezo vibration sensor
 Would be great alternative instead of measuring alternator voltage.<br />
-Tested it vibration is the thing to trigger but depends very much on the vibration = where you place your circuit with vibrationsensor.<br />
+Tested it vibration is the thing to trigger but depends very much on the vibration + where you place your circuit with vibrationsensor.<br />
+
+# Alternative with tiltsensor or gyro which measures angles of motor
+Played around with this idea when motor is tilted(=on side stand relay off) but also have centerstand. <br />
+Abandoned this idea very rapidly.<br />
 
 # Alternative Using the oilpressure sensor 
 Normally you can use the wire that control the lights to switch relay for bike running but lights are  directly on when contact is on and motor is not running yet.<br />
@@ -74,5 +78,6 @@ See schematic.<br />
 Control box transistor circuit and relay 12v <br />
 Input gnd and 12v from battery fused.<br />
 Input wire from oilpressureswitch(you just add extra wire on oil pressureswitch to controlbox)<br />
+Just brainstorming you could also use vacuum sensor that is also a valid and stable indicator motorrunning <br />
 
 
