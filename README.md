@@ -61,7 +61,7 @@ you can program your hysteresis and timeon and off delay like you want.<br />
 
 # Alternatieve with piezo vibration sensor
 Would be great alternative instead of measuring alternator voltage.<br />
-Tested it vibration is the thing to trigger but depends very mucht of the vibration.<br />
+Tested it vibration is the thing to trigger but depends very much on the vibration = where you place your circuit with vibrationsensor.<br />
 
 # Using the oilpressure sensor 
 Normally you can use wire that control the lights to switch relay for bike running but lights are on when contact is on and motor not running.br />
