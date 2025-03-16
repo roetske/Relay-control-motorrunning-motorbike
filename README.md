@@ -60,14 +60,16 @@ Standalone without controller was 20 years ago the best way to go, but now esp82
 you can program your hysteresis and timeon and off delay like you want.<br />
 
 # Alternatieve with piezo vibration sensor
-Would be great alternative instead of measuring alternator voltage.
+Would be great alternative instead of measuring alternator voltage.<br />
+Tested it vibration is the thing to trigger but depends very mucht of the vibration.<br />
 
-# Update in time
-In test at idle shuts off despite adjusting.<br />
-Keep it simple. <br />
-pushbutton 5s press on -1s press off<br />
-important light on when on<br />
-Use tiltsensor when on side stand always off after one minute.<br />
-I think this is the way to go.<br />
-If motorcycle is parked and someone presses randomly not on.<br />
-Got my parts now hopefully start building this version<br />
+# Using the oilpressure sensor 
+Normally you can use wire that control the lights to switch relay for bike running but lights are on when contact is on and motor not running.br />
+Found that you can use the oilpressureswitch is nc switch.br />
+On my motorbike oilpressure switch just controls indicator light oilpressure (is lit when contact is on and motor not running)
+The oilpressureswitch goes open when motor is running.br />
+You can make simple circuit with transistor , resistor and bypass diode that switches relay when oilpressureswitch goes to open.br />
+Fusing is important !! Added switch to turn it off and indicatorlamp relay is on.br />
+Added this to repository.br />
+
+
