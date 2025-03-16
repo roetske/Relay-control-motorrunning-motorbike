@@ -66,10 +66,13 @@ Tested it vibration is the thing to trigger but depends very much on the vibrati
 # Using the oilpressure sensor 
 Normally you can use wire that control the lights to switch relay for bike running but lights are on when contact is on and motor not running.<br />
 Found that you can use the oilpressureswitch is nc switch.<br />
-On my motorbike oilpressure switch just controls indicator light oilpressure (is lit when contact is on and motor not running)<br />
+On my motorbike oilpressure switch just controls indicator light oilpressure (the light is on contact on-- then when motor is running light is off)<br />
 The oilpressureswitch goes open when motor is running.<br />
 You can make simple circuit with transistor , resistor and bypass diode that switches relay when oilpressureswitch goes to open.<br />
 Fusing is important !! Added switch to turn it off and indicatorlamp relay is on.<br />
 See schematic.<br />
+Control box transistor circuit and relay 12v <br />
+Input gnd and 12v from battery fused.<br />
+Input wire from oilpressureswitch(you just add extra wire on oil pressureswitch to controlbox)<br />
 
 
