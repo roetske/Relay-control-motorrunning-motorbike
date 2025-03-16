@@ -64,7 +64,7 @@ Would be great alternative instead of measuring alternator voltage.<br />
 Tested it vibration is the thing to trigger but depends very much on the vibration = where you place your circuit with vibrationsensor.<br />
 
 # Alternative Using the oilpressure sensor 
-Normally you can use wire that control the lights to switch relay for bike running but lights are on when contact is on and motor not running.<br />
+Normally you can use the wire that control the lights to switch relay for bike running but lights are  directly on when contact is on and motor is not running yet.<br />
 Found that you can use the oilpressureswitch is nc switch.<br />
 On my motorbike oilpressure switch just controls indicator light oilpressure (the light is on contact on-- then when motor is running light is off)<br />
 The oilpressureswitch goes open when motor is running.<br />
