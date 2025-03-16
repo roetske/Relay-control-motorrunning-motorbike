@@ -21,8 +21,8 @@ buckconverter outputs 5v<br />
 opamp to with resistor divider 0-16v to 0-3.3v to analogue input esp8266<br />
 diode flywheel across power input (cutoff narsty emk from inductive loads) <br />
 -diode in series power<br />
-0.5 fuse resettable protect power electronics<br />
-red led indicating motorrunning on<br />
+0.5 fuse resettable protect power electronics <br />
+red led indicating motorrunning on <br />
 2 relay in one module 10a switching power per relay(first i wanted to use automotive relay but too bulky)<br />
 input button to teach voltage motorrunning (press 5sec and your trigger on voltage is teached and saved)<br />
 wago 221 for connections wireloom in box <br />
