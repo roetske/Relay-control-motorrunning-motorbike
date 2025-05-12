@@ -80,4 +80,20 @@ Input gnd and 12v from battery fused.<br />
 Input wire from oilpressureswitch(you just add extra wire on oil pressureswitch to controlbox)<br />
 Just brainstorming you could also use vacuum sensor that is also a valid and stable indicator motorrunning <br />
 
+# alternative using powersocket radio
+
+monitoring the voltage was not stable when idling . was erronous on off relay on off.<br />
+Wanted to to intervene as little in the existing caling and circuits. I eliminated the radio cassette(yes motorbike is old) longtime ago.<br />
+Got myself a haynes book on my motorbike. I could use the powersocket cable of the radio aha.<br />
+Has power 15A and contact on wire. Used this to power contact on relay in box.<br />
+For the fan i used a second relay wich only get power whenfirst relay is on. This relay is activated with switch on dashboard. <br />
+The first relay is relay with 3 fuse on it for 3 circuits. <br />
+3 circuit 3A 5A 7.5A.  <br />
+3A for dashcam  <br />
+5A for fan that goes to 2nd relay when switch fan on is on. <br />
+7.5A for 12v socket. <br /> <br />
+I put also a red led behind each circuit (lit when power after fuse). The advantage is you do not have to open the box , to check is blown.<br />
+Advantages are. Main power to box is already fused and each circuit in powerbox is fused also.
+Also on the box switch with led that cuts the contact on wire. so you can  poweroff everthing in extra circuit.
+Keep it simple that must be the motto :) <br />
 
