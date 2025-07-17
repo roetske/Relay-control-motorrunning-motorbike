@@ -35,7 +35,9 @@ powercable from battery silicone cable 18awg<br />
 powercable from battery fuse holder with fuse 7.5A<br />
 wrapped all cables with loomtape and powercable extra cable sleeve.
 important sprayed print and inside box with contact70 (coats everything with thin plastic layer protection against humidity and corrosion)<br />
-
+# conclusion
+See the last remark , turned out keeping it simple. used radio contact output power to switch relay and extra relay for the fan. No electronics needed lol just simple relays in a box.<br />
+The other remark with the oilpressuresensor was also a simple but effective way to have 12v running. Turns also on my bike the oil pressure indicator is just an indicator and notihing more. <br />
 # Remarks
 Cabling stays original and box and cable can be easily removed.<br />
 box has 5 short cables with seperate connectors for rapid connection.<br />
